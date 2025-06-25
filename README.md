@@ -55,9 +55,7 @@ This repository contains scripts, datasets, and notebooks developed during my **
 conda create -n bioenv python=3.8
 conda activate bioenv
 pip install -r requirements.txt
-
-
----
+```
 
 ## 📂 Folder Structure
 
@@ -75,4 +73,6 @@ Summer_25_Sarmad/
 │   └── gene_expression.csv
 ├── README.md
 └── requirements.txt
+
+
 
