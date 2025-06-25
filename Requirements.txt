@@ -1,10 +1,3 @@
-# =============================
-# Requirements for Summer 2025 Internship
-# Python Scripting for Bioinformatics
-# Lab: Integrative Omics and Molecular Modelling Lab
-# Environment: Conda
-# Python Version: 3.8
-# =============================
 
 # Core Scientific Libraries
 numpy==1.26.4
@@ -23,9 +16,4 @@ jupyterlab==4.2.1
 
 # Specify minimum required Python version
 python_version >= "3.8"
-
-conda create -n bioenv python=3.8
-conda activate bioenv
-#Install packages from requirements.txt
-pip install -r requirements.txt
 
