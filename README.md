@@ -1,6 +1,6 @@
 # 🌿 Summer 2025 Internship: Python Scripting for Bioinformatics
 
-**Intern:** Sarmad Nawaz
+**Intern:** Sarmad Nawaz  
 **Lab:** Integrative Omics and Molecular Modelling Lab  
 **Duration:** June–August 2025  
 **Focus Areas:** Bioinformatics · Molecular Modelling · Python · Machine Learning
@@ -9,7 +9,7 @@
 
 ## 📚 Overview
 
-This repository contains scripts, datasets, and notebooks developed during my **Summer 2025 Internship**. The internship combines Python programming, biological data analysis, and the basics of machine learning in bioinformatics.And alot of tasks and projects.
+This repository contains scripts, datasets, and notebooks developed during my **Summer 2025 Internship**, focused on applying Python to real-world biological data. Topics include scripting, sequence analysis, data visualization, and introductory machine learning in bioinformatics.
 
 ---
 
@@ -18,7 +18,7 @@ This repository contains scripts, datasets, and notebooks developed during my **
 ### 🔧 Day 1: Programming Fundamentals & Setup
 - Conda environment setup
 - Git & GitHub for version control
-- Python basics: I/O, variables, types, loops, conditions  
+- Python basics: input/output, variables, data types, loops, conditionals  
 📁 `Week1/day1_basics.py`
 
 ### 🧩 Day 2: Modular Programming & Data Structures
@@ -27,12 +27,12 @@ This repository contains scripts, datasets, and notebooks developed during my **
 📁 `Week1/day2_fasta_parser.py`
 
 ### 🧬 Day 3: Sequence Analysis with Biopython
-- Reading and writing sequences using `Bio.SeqIO`
+- Read/write biological sequences using Biopython
 - Reverse complement, transcription, translation  
 📁 `Week1/day3_biopython_seq.py`
 
 ### 📊 Day 4: Data Analysis & Visualization
-- Using Pandas, NumPy
+- DataFrames using Pandas and NumPy
 - Visualizations with Seaborn, Matplotlib, Plotly  
 📁 `Week1/day4_gene_expression_viz.ipynb`
 
@@ -41,6 +41,21 @@ This repository contains scripts, datasets, and notebooks developed during my **
 📁 `Week1/day5_codon_usage.py`
 - Genomic Mutation Visualization  
 📁 `Week1/day5_mutation_viz.py`
+
+---
+
+## 📦 Environment Setup & Installation
+
+> This project uses **Python 3.8** and a virtual environment managed with **Conda**.  
+> All packages are listed in `requirements.txt`.
+
+### 🔧 Create and Activate Conda Environment
+
+```bash
+conda create -n bioenv python=3.8
+conda activate bioenv
+pip install -r requirements.txt
+
 
 ---
 
@@ -60,3 +75,4 @@ Summer_25_Sarmad/
 │   └── gene_expression.csv
 ├── README.md
 └── requirements.txt
+
