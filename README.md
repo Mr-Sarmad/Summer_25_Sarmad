@@ -1,6 +1,6 @@
 # 🌿 Summer 2025 Internship: Python Scripting for Bioinformatics
 
-**Intern:** Sarmad Jutt  
+**Intern:** Sarmad Nawaz
 **Lab:** Integrative Omics and Molecular Modelling Lab  
 **Duration:** June–August 2025  
 **Focus Areas:** Bioinformatics · Molecular Modelling · Python · Machine Learning
@@ -9,7 +9,7 @@
 
 ## 📚 Overview
 
-This repository contains scripts, datasets, and notebooks developed during my **Summer 2025 Internship**. The internship combines Python programming, biological data analysis, and the basics of machine learning in bioinformatics.
+This repository contains scripts, datasets, and notebooks developed during my **Summer 2025 Internship**. The internship combines Python programming, biological data analysis, and the basics of machine learning in bioinformatics.And alot of tasks and projects.
 
 ---
 
