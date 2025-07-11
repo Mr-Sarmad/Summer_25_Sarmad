@@ -15,7 +15,6 @@ This repository contains scripts, datasets, and notebooks developed during my **
 - Sequence analysis using Biopython
 - Gene expression data visualization
 - Machine learning and dimensionality reduction
-- Explainable AI (XAI) using SHAP
 
 ---
 
@@ -43,8 +42,8 @@ This repository contains scripts, datasets, and notebooks developed during my **
 ### 📆 Week 3: Machine Learning in Bioinformatics
 
 - 📁 `supervised_learning.ipynb` — Classification using Logistic Regression, SVM, Random Forest  
-- 📁 `unsupervised_pca_tsne.ipynb` — K-Means clustering, PCA, t-SNE for dimensionality reduction  
-- 📁 `model_eval_shap.ipynb` — Model evaluation (accuracy, ROC), SHAP for interpretability
+- 📁 `unsupervised_pca_tsne.ipynb` — K-Means clustering, PCA for dimensionality reduction  
+- 📁 `model_eval_shap.ipynb` — Model evaluation (accuracy, ROC)
 
 ---
 
