@@ -1,5 +1,3 @@
-# 🌿 Summer 2025 Internship: Python Scripting for Bioinformatics
-
 # 🌿 Summer 2025 Internship: Python Scripting & Machine Learning in Bioinformatics
 
 **Intern:** Sarmad Nawaz  
