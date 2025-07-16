@@ -1,6 +1,7 @@
-# 🌿 Summer Internship: Integrative Omics and Molecular Modelling Lab
+# 🌿 Summer Internship
+## lab :Integrative Omics and Molecular Modelling Lab
 
-Welcome to the official GitHub repository for the **Summer Internship Program** hosted by the *Omics and Molecular Modelling Lab*. This repository documents all the skills, topics, and projects covered during the internship, with hands-on experience in computational biology, bioinformatics, machine learning, and deep learning.
+Welcome to the official GitHub repository for the **Summer Internship Program** hosted by the *Integrative Omics and Molecular Modelling Lab*. This repository documents all the skills, topics, and projects covered during the internship, with hands-on experience in computational biology, bioinformatics, machine learning, and deep learning.
 
 ## 🧪 Internship Topics Overview
 
