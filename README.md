@@ -1,4 +1,4 @@
-# 🌿 Summer Internship: Omics and Molecular Modelling Lab
+# 🌿 Summer Internship: Integrative Omics and Molecular Modelling Lab
 
 Welcome to the official GitHub repository for the **Summer Internship Program** hosted by the *Omics and Molecular Modelling Lab*. This repository documents all the skills, topics, and projects covered during the internship, with hands-on experience in computational biology, bioinformatics, machine learning, and deep learning.
 
@@ -132,14 +132,13 @@ All detailed insights, results, graphs, and biological interpretations are inclu
 
 **Sarmad Nawaz**  
 *BS Bioinformatics* | GCU, Pakistan  
-💬 *Specialized in Genome Analysis, Machine Learning, and Computational Biology*
 
 ---
 
 ## 📬 Contact
 
 For collaborations, queries, or discussions:  
-📧 sarmad.bioinfo@gmail.com
+📧 sarmadjutt136@gmail.com
 
 ---
 
