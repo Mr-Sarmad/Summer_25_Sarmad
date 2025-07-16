@@ -14,7 +14,7 @@ def one_hot_encode_promoter(input_file="final_dataset.csv", output_file="tata_on
         writer = csv.writer(f)
         header = ['gene_id'] + [f'pos{i+1}_{base}' for i in range(tata_length) for base in 'ACGT']
         writer.writerow(header)
-        for _, row in df.iterrows():
+        for row in df.iterrows():
             seq = str(row['promoter_sequence']).upper()[-tata_length:].ljust(tata_length, 'N')
             row_data = [row['gene_id']]
             for base in seq:
